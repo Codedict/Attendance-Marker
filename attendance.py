@@ -20,4 +20,4 @@ while True:
   class_link.click()
   time.sleep(10)
   browser.close()
-  time.sleep(20)
+  time.sleep(20) #You can set the  time u want for iteratig the same process#
